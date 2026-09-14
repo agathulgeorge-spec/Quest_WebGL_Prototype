@@ -1,3 +1,5 @@
+https://athulgeorge-ms.itch.io/the-quest-cave-coreloop - Playable Core Loop
+
 1. The Pitch
 The Quest is a 2D atmospheric narrative-adventure game focused on exploration, environmental restoration, light-based puzzles, lore, and combat.The player explores a mysterious corrupted world and uses light to reveal, interact with, and restore the environment.Target audience: Players who enjoy atmospheric and narrative games such as GRIS, Journey, Ori, and Inside.
 
